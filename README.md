@@ -2,7 +2,7 @@
 
 Welcome to my solution for the Untested API take-home assignment!
 
-## What Was Accomplished 🚀
+## What Was Accomplished 
 
 1. **Test Coverage & Reliability**
    - Added comprehensive unit tests for `taskService.js` and integration tests for the Express API routes.
@@ -26,7 +26,7 @@ Welcome to my solution for the Untested API take-home assignment!
 
 ---
 
-## Instructions to Run 🛠
+## Instructions to Run 
 
 **Prerequisites:** Node.js 18+
 
